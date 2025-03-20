@@ -5,3 +5,4 @@ let varBoolean = true
 console.log(typeof(varText))
 console.log(typeof(varNumber))
 console.log(typeof(varBoolean))
+

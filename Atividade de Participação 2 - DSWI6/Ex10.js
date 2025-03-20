@@ -15,4 +15,3 @@ function toUpperCase(str){
 }
 
 console.log(toUpperCase("teste"))
-console.log(toUpperCase("varmaiorladraodetodos"))

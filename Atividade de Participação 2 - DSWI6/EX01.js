@@ -1,3 +1,4 @@
+
 class Vec{
     
     constructor(x, y){
@@ -24,4 +25,5 @@ vetor02 = new Vec(5,2)
 
 console.log(vetor01.plus(vetor02))
 console.log(vetor01.minus(vetor02))
+
 console.log(vetor01.lenght)

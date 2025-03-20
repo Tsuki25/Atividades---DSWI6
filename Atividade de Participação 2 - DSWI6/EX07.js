@@ -5,3 +5,4 @@ function flattenArray(arrays) {
 const entrada = [[1, 2, 3], [4, 5], [6]];
 const resultado = flattenArray(entrada);
 console.log(resultado);
+
